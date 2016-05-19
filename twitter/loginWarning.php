@@ -1,0 +1,1 @@
+<?php    echo '<h1>まだログインしてありませんよ</h1></br>';    echo '<a href="./twitter.html">ログイン画面へ</a>';    ?>

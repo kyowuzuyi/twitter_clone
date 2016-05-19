@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background:#8EF7A3;}
+#body{
+	border:solid;
+	margin:0 auto;
+	text-align: center;
+	width:500px;
+	margin-top:50px;
+	border-color:red;
+	}
+
+#top{
+	padding-bottom:-30px;
+	background-color:#FF67D3;
+	text-align:center; 
+	padding-bottom:-30px;
+	}
+
+#border{
+	margin:0 auto;
+	}
+	
+h1{
+	text-align:center;
+	}

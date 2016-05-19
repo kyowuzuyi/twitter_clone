@@ -1,0 +1,101 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	width:1000px;
+	height:auto;
+	margin:0 auto;
+	background-color:#008B8B;
+	}
+
+
+#head img {
+		width:60px;
+		float:left;
+		border:solid;
+		border-color:white;
+		margin-top:0px;
+		margin-left:10px;
+	}
+form{
+	margin-bottom:0;
+}	
+
+	
+#head{
+	float:left;
+	width:240px;
+	margin-left:10px;
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#d0e4f7+0,0a77d5+0,0a77d5+28,0a77d5+37,0a77d5+50,0a77d5+56,0a77d5+56,0a77d5+58,87bcea+82,87bcea+82,ffffff+100,ffffff+100,ffffff+100 */
+background: rgb(208,228,247); /* Old browsers */
+background: -moz-linear-gradient(top,  rgb(208,228,247) 0%, rgb(10,119,213) 0%, rgb(10,119,213) 28%, rgb(10,119,213) 37%, rgb(10,119,213) 50%, rgb(10,119,213) 56%, rgb(10,119,213) 56%, rgb(10,119,213) 58%, rgb(135,188,234) 82%, rgb(135,188,234) 82%, rgb(255,255,255) 100%, rgb(255,255,255) 100%, rgb(255,255,255) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgb(208,228,247) 0%,rgb(10,119,213) 0%,rgb(10,119,213) 28%,rgb(10,119,213) 37%,rgb(10,119,213) 50%,rgb(10,119,213) 56%,rgb(10,119,213) 56%,rgb(10,119,213) 58%,rgb(135,188,234) 82%,rgb(135,188,234) 82%,rgb(255,255,255) 100%,rgb(255,255,255) 100%,rgb(255,255,255) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgb(208,228,247) 0%,rgb(10,119,213) 0%,rgb(10,119,213) 28%,rgb(10,119,213) 37%,rgb(10,119,213) 50%,rgb(10,119,213) 56%,rgb(10,119,213) 56%,rgb(10,119,213) 58%,rgb(135,188,234) 82%,rgb(135,188,234) 82%,rgb(255,255,255) 100%,rgb(255,255,255) 100%,rgb(255,255,255) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d0e4f7', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+
+border:solid;
+border-color:#B7B7B7;
+border-width:thin;
+display:block;
+}
+a:hover{/*マウスをのせたとき*/
+	color:white;
+}	
+#head h1{
+	color:red;
+	margin-top:0px;
+	margin-left:10px;
+	}
+	
+#talk{
+	background-color:#CB29DB;
+	height:100px;
+	width:700px;
+	margin-left:290px;
+
+	}
+#talk img{
+		width:40px;
+		border:solid;
+		border-color:white;
+		margin-top:25px;
+		margin-left:10px;
+		float:left;
+	}
+	
+#parent{
+	width:700px;
+	background-color:white;
+	margin-left:290px;
+	height:auto;
+
+	
+	}
+	
+#text{
+	color:#9A9A9A;
+	}
+	
+
+#submit_Btn{
+	height:50px;
+	margin-left:20px;
+	float:right;
+	margin-right:20px;
+	margin-top:40px;
+	
+	
+	}
+	
+#tubu input{
+	width:696px;
+	height:100px;
+	}
+	
+#box{
+	list-style-type: none;
+}
+
+h4{
+	color:red;
+	}
